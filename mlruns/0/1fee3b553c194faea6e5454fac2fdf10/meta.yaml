@@ -1,0 +1,15 @@
+artifact_uri: file:///E:/EndtoEndMLwithDockerAWS/mlruns/0/1fee3b553c194faea6e5454fac2fdf10/artifacts
+end_time: 1698771963849
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 1fee3b553c194faea6e5454fac2fdf10
+run_name: honorable-elk-783
+run_uuid: 1fee3b553c194faea6e5454fac2fdf10
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1698771956361
+status: 3
+tags: []
+user_id: lenev
